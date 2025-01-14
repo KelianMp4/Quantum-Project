@@ -32,5 +32,5 @@ def random_number_quantum(long: int, iteration: int) -> str:
 
 if __name__ == '__main__':
     os.makedirs('Hist', exist_ok=True)
-    for iteration in range(10):
-        print(random_number_quantum(10, iteration))
+    for j in range(10):
+        print(random_number_quantum(10, j))
