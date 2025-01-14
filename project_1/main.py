@@ -4,7 +4,7 @@ from qiskit_aer import AerSimulator
 import os
 
 
-def random_number_quantum(long: int, iteration: int) -> str:
+def random_number_quantum(long: int, iteration=0) -> str:
     i: int = 0
     number: str = ''
     simulator = AerSimulator()
