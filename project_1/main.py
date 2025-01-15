@@ -5,7 +5,6 @@ import os
 
 
 def random_number_quantum(n_bits: int) -> int:
-
     """
     Generate a random integer using a quantum simulator.
 
