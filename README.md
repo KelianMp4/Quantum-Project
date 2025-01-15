@@ -28,7 +28,6 @@ and eventually run them on quantum processors available on IBM Quantum’s cloud
 
 For those new to quantum computing, Qiskit also provides numerous tutorials and resources to help
 you get started with building quantum applications.
----
 
 ## [Project_1 :](project_1/main.py) Simulating a quantum random number generator
 
