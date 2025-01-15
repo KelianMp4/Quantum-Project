@@ -4,7 +4,7 @@ from qiskit_aer import AerSimulator
 import os
 
 
-def random_number_quantum(n_bits: int, n_execution: int = 0):
+def random_number_quantum(n_bits: int, n_execution: int = 1):
     os.makedirs(name='Hist', exist_ok=True)
     simulator = AerSimulator()
     n: int = 0
