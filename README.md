@@ -31,7 +31,7 @@ you get started with building quantum applications.
 
 
 
--------
+---
 ## [Project_1 :](project_1/main.py) Simulating a quantum random number generator
 
 
